@@ -1,0 +1,16 @@
+{
+  "locators": {
+    "homepage": {
+      "username": {
+        "xpath": "//input[@id='Email']",
+        "css": "#Email",
+        "id": "Email"
+      },
+      "password": {
+        "xpath": "//input[@id='Password']",
+        "css": "#Password",
+        "id": "Password"
+      }
+    }
+  }
+}

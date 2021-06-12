@@ -1,0 +1,16 @@
+<locators>
+    <homepage>
+        <header>
+            <username>
+                <css>#Email</css>
+                <xpath>//input[@id='Email']</xpath>
+                <id>Email</id>
+            </username>
+            <password>
+                <css>#Password</css>
+                <xpath>//input[@id='Password']</xpath>
+                <id>Password</id>
+            </password>
+        </header>
+    </homepage>
+</locators>
